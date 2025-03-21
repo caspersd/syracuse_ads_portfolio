@@ -1,0 +1,8 @@
+
+Ideology Project Model Results:
+        Spearman_Correlation: 0.6071333780266703
+        Kendall_Tau: 0.40306489538570184
+        MAE_Rank: 9.146341463414634
+        RMSE_Rank: 11.017724079974004
+        Percent_Perfect_Matches: 4.878048780487805
+        Spearman_Top_10: -0.49090909090909085

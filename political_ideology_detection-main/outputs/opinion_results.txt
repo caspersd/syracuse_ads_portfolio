@@ -1,0 +1,42 @@
+
+================================================================================
+BERT Model:
+Precision: 0.5580463448982204
+Recall: 0.5205479452054794
+Accuracy: 0.5205479452054794
+F1 Score: 0.376462676073082
+Confusion Matrix:
+[[  3 103]
+ [  2 111]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.60      0.03      0.05       106
+           1       0.52      0.98      0.68       113
+
+    accuracy                           0.52       219
+   macro avg       0.56      0.51      0.37       219
+weighted avg       0.56      0.52      0.38       219
+
+
+
+================================================================================
+BERT Model:
+Precision: 0.5580463448982204
+Recall: 0.5205479452054794
+Accuracy: 0.5205479452054794
+F1 Score: 0.376462676073082
+Confusion Matrix:
+[[  3 103]
+ [  2 111]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.60      0.03      0.05       106
+           1       0.52      0.98      0.68       113
+
+    accuracy                           0.52       219
+   macro avg       0.56      0.51      0.37       219
+weighted avg       0.56      0.52      0.38       219
+
+

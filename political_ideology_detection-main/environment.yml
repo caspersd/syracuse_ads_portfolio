@@ -1,0 +1,36 @@
+name: opinion_extraction
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - black
+  - flake8
+  - isort
+  - pip
+  - typer
+  - loguru
+  - tqdm
+  - ipython
+  - jupyterlab
+  - matplotlib
+  - notebook
+  - numpy
+  - pandas
+  - scikit-learn
+  - seaborn
+  - pillow
+  - wordcloud
+  - spacy
+  - spacy-model-en_core_web_sm
+  - datasets
+  - transformers
+
+  - pip:
+    - python-dotenv
+    - mkdocs
+    - tensorflow==2.17.1
+    - tf-keras
+    - sentence_transformers
+    - dash
+    - gunicorn
